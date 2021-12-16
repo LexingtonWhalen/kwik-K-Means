@@ -1,0 +1,6 @@
+./data/
+*.txt
+*.o
+data
+*.exe
+./pretty_pics/
